@@ -1,6 +1,13 @@
-# arduino-tetris-theme-song
+# arduino-90s-game-songs-theme
 
-This i a simple arduino sketch that simulate the Tetris theme.
+## Super Mario Bros
+
+This is a simple arduino schetck that simulate the SuperMario Bros Theme
+
+
+## Tetris
+
+This is a simple arduino sketch that simulate the Tetris theme.
 The sketch is basically developed in Cpp Programming Language
 
 ![cpp-icon](https://img.icons8.com/color/96/000000/c-plus-plus-logo.png)
